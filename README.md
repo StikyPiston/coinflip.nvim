@@ -1,5 +1,7 @@
 # Coinflip.nvim
 
+![Configs using Coinflip](https://dotfyle.com/plugins/StikyPiston/coinflip.nvim/shield?style=for-the-badge)
+
 **Coinflip.nvim** is a simple nvim plugin that allows you to flip a coin.
 
 ## Installation
