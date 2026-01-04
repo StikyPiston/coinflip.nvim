@@ -12,7 +12,7 @@ end
 M.setup = function()
 	vim.api.nvim_create_user_command(
 		'Coinflip',
-		M.flip(),
+		function() M.flip() end,
 		{ desc = "Flip a coin" }
 	)
 end
