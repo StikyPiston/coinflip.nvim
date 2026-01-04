@@ -16,8 +16,4 @@ vim.pack.add({
 
 ## Configuration
 
-To configure, just create a keybinding to execute `require("coinflip").flip()`, for example:
-
-```lua
-vim.keymap.set('n', '<leader>cf', function() require("coinflip").flip() end)
-```
+To configure, just create a keybinding to execute `:Coinflip`, for example:
