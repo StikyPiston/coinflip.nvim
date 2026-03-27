@@ -1,6 +1,6 @@
 # Coinflip.nvim
 
-![Configs using Coinflip](https://dotfyle.com/plugins/StikyPiston/coinflip.nvim/shield?style=for-the-badge)
+![Configs using Coinflip](https://dotfyle.com/plugins/indium114/coinflip.nvim/shield?style=for-the-badge)
 
 **Coinflip.nvim** is a simple Neovim plugin that allows you to flip a coin.
 
@@ -10,7 +10,7 @@
 
 ```lua
 vim.pack.add({
-    "https://github.com/StikyPiston/coinflip.nvim"
+    "https://github.com/indium114/coinflip.nvim"
 })
 ```
 
